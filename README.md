@@ -25,7 +25,7 @@
  
  <a href ="mailto:taynara.olivs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
- <div style="border-radius: 50%">
- <img src="https://media.discordapp.net/attachments/1003404923964244040/1018324122708746340/avatar.png" width="200">
+ <div>
+ <p><img src="https://media.discordapp.net/attachments/1003404923964244040/1018324122708746340/avatar.png" width="200" aling="right"></p>
 
 </div>

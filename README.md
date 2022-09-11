@@ -1,4 +1,4 @@
-# 👋 Olá! Meu nome é Taynara e sou Desenvolvedora Front-end.
+## 👋 Olá! Meu nome é Taynara e sou Desenvolvedora Front-end.
 
 
 <div style="display: inline_block"><br>

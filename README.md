@@ -1,6 +1,6 @@
 ## 👋 Olá! Meu nome é Taynara e sou Desenvolvedora Front-end.
 
-<img src="https://media.discordapp.net/attachments/1003404923964244040/1018332702212096100/avatar.png" width="200" align="right">
+<img src="https://media.discordapp.net/attachments/1003404923964244040/1018332702212096100/avatar.png" width="250" align="right">
 
 <div style="display: inline_block"><br>
  

@@ -24,8 +24,6 @@
  <a href="https://www.instagram.com/taynara.olivs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <a href ="mailto:taynara.olivs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <p><img src="https://media.discordapp.net/attachments/1003404923964244040/1018324122708746340/avatar.png" width="200" align="right"></p>
  </div>
- <div>
- <p><img src="https://media.discordapp.net/attachments/1003404923964244040/1018324122708746340/avatar.png" width="200" align="top-right"></p>
 
-</div>
